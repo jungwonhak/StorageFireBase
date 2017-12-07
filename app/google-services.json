@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1058359758196",
+    "firebase_url": "https://tpstoragefire.firebaseio.com",
+    "project_id": "tpstoragefire",
+    "storage_bucket": "tpstoragefire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058359758196:android:a43a47d57974c5cf",
+        "android_client_info": {
+          "package_name": "com.example.ghazi.tpstoragefire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058359758196-bcp7obdiicbrvogl582chv7aee9ouros.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghazi.tpstoragefire",
+            "certificate_hash": "168f1d8526db2fe648072de2d234ddf29fc70f5b"
+          }
+        },
+        {
+          "client_id": "1058359758196-b65et4j8uu8cc554kt0kglgk7scshjet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFI32iD4WPe1O5lIVehMZoF-CN2_8ta0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058359758196-b65et4j8uu8cc554kt0kglgk7scshjet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
